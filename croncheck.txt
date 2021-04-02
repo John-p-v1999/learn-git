@@ -1,0 +1,11 @@
+anaconda3
+Desktop
+Documents
+Downloads
+google-chrome-stable_current_amd64.deb
+Music
+Pictures
+Public
+snap
+Templates
+Videos
